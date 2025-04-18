@@ -30,12 +30,10 @@ $ python3 -m pip install requests
 ```
 $ git clone https://github.com/TechHacker737/Tspam
 $ cd Tspam
-$ python3 spam.py
+$ python3 wspam.py
 ```
 
 ### Video Demo
 [![T-Find Demo](https://wdevmail.000webhostapp.com/Picsart_23-07-08_15-27-05-390.jpg)](https://youtu.be/SGfBpbg6Ots)
 
 ### For More Video subcribe <a href="http://youtube.com/techhacker7">Tech Hacker YouTube Channel</a>
-
-
